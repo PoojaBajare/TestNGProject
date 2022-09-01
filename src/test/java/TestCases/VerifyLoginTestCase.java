@@ -13,7 +13,8 @@ import Resources.BaseClass;
 import Resources.TestCaseData;
 import Resources.commonUtilities;
 
-//login page with framework
+
+
 public class VerifyLoginTestCase extends BaseClass {
     
 	//diff package
